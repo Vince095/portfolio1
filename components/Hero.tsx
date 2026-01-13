@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Vincent, a software engineer with over three years of experience.
+            Hi! I&apos;m Vincent, a software engineer with over five years of experience.
           </p>
 
           <a href="#about">
